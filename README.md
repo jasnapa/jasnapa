@@ -7,7 +7,6 @@ I'm a passionate Self learned MERN stack developer with a love for creating web 
 - 💻 I'm currently working on MERN Stack Project.
 -👯 I'm looking for role as Fullstack developer/Node developer/React Developer and to collaborate on open-source projects.
 - 💬 Ask me about JavaScript, React, MongoDB, or anything tech-related.
-- 📫 How to reach me: jasnapa661@gmail.com
 
 ## 🔧 Technologies & Tools
 
